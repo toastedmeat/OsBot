@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ToastyPest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ToastyPest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

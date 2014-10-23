@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ToastyBDragons:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ToastyBDragons_jar</output-path>
+    <root id="archive" name="ToastyBDragons.jar">
+      <element id="module-output" name="ToastyBDragons" />
+    </root>
+  </artifact>
+</component>
